@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  doom-app:
+    image: rudolphy/doom-slayer-marcio:latest
+    restart: always
+    ports: 
+        - 8080:8080

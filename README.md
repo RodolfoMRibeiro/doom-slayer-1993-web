@@ -23,3 +23,6 @@ Before running the Docker container, ensure that Docker is installed on your sys
 ### Running with Docker
 
 1. Pull the Docker image from DockerHub using the following command: ```docker run -p 8080:8080 rudolphy/doom-slayer-marcio```
+
+
+![image](https://github.com/RodolfoMRibeiro/doom-slayer-1993-web/assets/89111970/34056d1e-e48d-4441-acf5-f1ad10930fe4)

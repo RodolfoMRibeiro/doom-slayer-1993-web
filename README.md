@@ -12,6 +12,13 @@ To set up and run the Doom web app locally, follow these simple steps:
 
 Once the server is up and running, you can access the game at [http://127.0.0.1:8080](http://127.0.0.1:8080).
 
+## Instructions:
+
+Movement: Use the arrow keys to move the character.
+
+Shooting: Use the mouse to aim and shoot.
+
+
 ## Running as a Container
 
 For added convenience and portability, the Doom web app is also containerized using Docker. This means you can run it as a self-contained unit, without worrying about compatibility issues or dependency management.
